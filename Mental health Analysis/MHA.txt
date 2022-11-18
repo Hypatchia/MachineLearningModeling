@@ -1,0 +1,25 @@
+Using Facebook:
+participants (N=1,240) in Jordan in March 2020 were recruited and direct to a web-based survey 
+measuring anxiety (items from GAD-7 instrument),
+depressive symptoms (items from DES-10), sleep health (items from the PSQI), and sociodemographic.
+ 4 factors of questions : GAD7:Anxiety 3-CESD:Depression-PSQI:Sleep-IPAQ:Physical Activity-Demographics
+
+GAD-7:
+    GAD-7 Assessment Resources developed by the VISN 4 MIRECC. Please contact Natacha.Jacques@va.gov 
+    with any questions or comments.What is it?
+Brief Description
+    -Self-administered 7 item instrument that uses some of the DSM-V criteria for GAD (General Anxiety
+  Disorder) to identify probable cases of GAD along with measuring anxiety symptom severity. It can
+  also be used as a screening measure of panic, social anxiety, and PTSD. It was modeled after the
+  PHQ9 to be used quickly and effectively within a primary care setting.
+    - When considering a diagnosis, the clinician will still need to use clinical interviewing skills to
+  determine whether the symptoms are causing clinically significant distress or impairment and
+  those symptoms are not better explained or attributed to other conditions (i.e. substance use,
+  medical conditions, bereavement, etc.
+
+
+
+
+
+
+
